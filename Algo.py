@@ -169,10 +169,7 @@ if __name__=='__main__':
             speak('Here are some headlines from the BBC,Happy reading')
             print("Here are some headlines from the BBC,Happy reading.")
             time.sleep(6)
-        
-        elif 'how are you feeling' in statement:
-            speak("Feeling horny with 69 others.")
-            print("Feeling horny with 69 others.")
+      
 
         elif 'what is your name' in statement or "what's your name" in statement:
             speak("My name is Algo D. Luffy and I want to become ho-kagay someday.")
