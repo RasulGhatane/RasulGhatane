@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RasulGhatane
-- 👀 I’m interested in programming stuffs.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in programming.
 - 💞️ I’m looking to collaborate on google.
 - 📫 You can contact me through my email. rasulghatane@gmail.com
 
