@@ -1,6 +1,7 @@
 # Hi there, I'm Rasul. 👋  
 *Welcome to my whimsical world of tech, art, and dreams.* 🌿✨  
 
+![Whimsical Nature]((https://i.pinimg.com/originals/af/6e/21/af6e213cf897fe5e29f957ccce079f49.gif))  
 *Inspired by nature, innovation, and creativity.*  
 
 I'm a passionate software/web developer specializing in **AI, Data Science, and Web Development**. I believe in building impactful projects that inspire and foster collaboration within the tech community.  
@@ -19,18 +20,18 @@ I'm a passionate software/web developer specializing in **AI, Data Science, and 
 ## 🛠️ My Skills and Tools  
 
 **Languages**  
-![Python](https://img.shields.io/badge/-Python-#FFAC33?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-#F9D423?logo=javascript&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)  
 
 **Frameworks/Tools**  
-![React](https://img.shields.io/badge/-React-#00D8FF?logo=react&logoColor=white) ![Django](https://img.shields.io/badge/-Django-#092F3D?logo=django&logoColor=white)  
+![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white) ![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white)  
 
 ---
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-#0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasul-ghatane-071120257/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-#1DA1F2?logo=twitter&logoColor=white)](https://x.com/RasulGhatane)  
-[![GitHub](https://img.shields.io/badge/-GitHub-#000000?logo=github&logoColor=white)](https://github.com/RasulGhatane)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasul-ghatane-071120257/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/RasulGhatane)  
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white)](https://github.com/RasulGhatane)
 
 ---
 
@@ -41,6 +42,7 @@ I'm a passionate software/web developer specializing in **AI, Data Science, and 
 
 ---
 
+![Nature GIF](https://your-link-to-a-nature-themed-gif.com)  
 *Just like the wind through the trees, let's grow together and build something beautiful.* 🌳
 
 Thanks for visiting my corner of the internet! Let's make something amazing together. ✨🌿
