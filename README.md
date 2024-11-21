@@ -1,6 +1,7 @@
 # Hi there, I'm Rasul. 👋  
 
-![Welcome GIF](https://raw.githubusercontent.com/user-attachments/assets/0e4ca9df-3e46-4474-9a6b-a43d1652684c)
+![image](https://github.com/user-attachments/assets/0e4ca9df-3e46-4474-9a6b-a43d1652684c)
+
 
 I'm a passionate software/web developer specializing in AI Datascience and Web Development, dedicated to building impactful projects and fostering collaboration in the tech community.  
 
@@ -31,6 +32,7 @@ I'm a passionate software/web developer specializing in AI Datascience and Web D
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white)](https://x.com/RasulGhatane)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/RasulGhatane)
 
+
 ---
 
 ## 📈 GitHub Stats  
@@ -40,6 +42,7 @@ I'm a passionate software/web developer specializing in AI Datascience and Web D
 
 ---
 
-![Goodbye GIF](https://raw.githubusercontent.com/user-attachments/assets/9b1830c1-bb81-4caf-94bd-d15d8ae9c262)
+![image](https://github.com/user-attachments/assets/9b1830c1-bb81-4caf-94bd-d15d8ae9c262)
+
 
 Thanks for visiting! 🙌 Let's create something amazing together.
