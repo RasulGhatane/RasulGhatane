@@ -41,7 +41,7 @@ I'm a passionate software/web developer specializing in **AI, Data Science, and 
 
 ---
 
-![Nature GIF](https://your-link-to-a-nature-themed-gif.com)  
+![End_GIF](https://i.pinimg.com/originals/6a/dc/87/6adc878b255111abc1f13748a257d38f.gif)
 *"Wherever you go, I'm always with you."*
 *— Totoro, My Neighbor Totoro* 
 
