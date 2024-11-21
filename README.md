@@ -1,5 +1,5 @@
 # Hi there, I'm Rasul. 👋  
-*Welcome to my whimsical world of tech, art, and dreams.* 🌿✨  
+*Welcome to my whimsical world of tech, art, and dreams.* 
 
 ![Whimsical GIF](https://i.pinimg.com/originals/af/6e/21/af6e213cf897fe5e29f957ccce079f49.gif)
   
@@ -44,6 +44,7 @@ I'm a passionate software/web developer specializing in **AI, Data Science, and 
 ---
 
 ![Nature GIF](https://your-link-to-a-nature-themed-gif.com)  
-*Just like the wind through the trees, let's grow together and build something beautiful.* 🌳
+*"Wherever you go, I'm always with you."*
+*— Totoro, My Neighbor Totoro* 
 
-Thanks for visiting my corner of the internet! Let's make something amazing together. ✨🌿
+Thanks for visiting my corner of the internet! Let's make something amazing together. 
