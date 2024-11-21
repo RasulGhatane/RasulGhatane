@@ -1,6 +1,6 @@
 # Hi there, I'm Rasul. 👋  
 
-![GitHub Banner]![image](https://github.com/user-attachments/assets/0e4ca9df-3e46-4474-9a6b-a43d1652684c)
+![image](https://github.com/user-attachments/assets/0e4ca9df-3e46-4474-9a6b-a43d1652684c)
 
 
 I'm a passionate software/web developer specializing in AI Datascience and Web Development, dedicated to building impactful projects and fostering collaboration in the tech community.  
