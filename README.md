@@ -1,7 +1,8 @@
 # Hi there, I'm Rasul. 👋  
 *Welcome to my whimsical world of tech, art, and dreams.* 🌿✨  
 
-![Whimsical Nature]((https://i.pinimg.com/originals/af/6e/21/af6e213cf897fe5e29f957ccce079f49.gif))  
+![Whimsical GIF](https://i.pinimg.com/originals/af/6e/21/af6e213cf897fe5e29f957ccce079f49.gif)
+  
 *Inspired by nature, innovation, and creativity.*  
 
 I'm a passionate software/web developer specializing in **AI, Data Science, and Web Development**. I believe in building impactful projects that inspire and foster collaboration within the tech community.  
