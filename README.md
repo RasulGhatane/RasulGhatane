@@ -28,9 +28,10 @@ I'm a passionate software/web developer specializing in AI Datascience and Web D
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rasul-ghatane-071120257/))  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white)]((https://x.com/RasulGhatane))  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)]((https://github.com/RasulGhatane))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasul-ghatane-071120257/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white)](https://x.com/RasulGhatane)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/RasulGhatane)
+
 
 ---
 
