@@ -11,8 +11,8 @@ I'm a passionate software/web developer specializing in **AI, Data Science, and 
 
 - 🌱 Currently learning **Machine Learning and Data Science**  
 - 🛠 Working on **Speak-Up**, a sign language detection project that brings communication to life on video calls.  
-- 💬 Ask me about **Web Development** and **Creative Tech Solutions**  
-- ⚡ Fun fact: **I'm also a jazz musician and a storyteller.** I weave words into stories and poems that transport you to other worlds.  
+- 💬 Ask me about **Web Development**
+- ⚡ Fun fact: **I'm also a jazz musician and a writer.** I weave words into stories and poems that transport you to other worlds.  
 
 ---
 
@@ -30,7 +30,6 @@ I'm a passionate software/web developer specializing in **AI, Data Science, and 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasul-ghatane-071120257/)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/RasulGhatane)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white)](https://github.com/RasulGhatane)
 
 ---
 
